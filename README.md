@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cabecera-oscuro.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/cabecera-claro.png">
+    <img src="assets/cabecera-claro.png" width="880" alt="Jardín Rosa: invernadero en pixel art de 16 bits con una estantería de macetas, un letrero de madera que dice Jardín Rosa y un escritorio con un monitor mostrando código">
+  </picture>
+</div>
 
-<!--
-**JardinRosa/JardinRosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Pablo Delgado
 
-Here are some ideas to get you started:
+Desarrollador de software en Ciudad de Panamá. Estoy en la etapa de
+construir mis propios proyectos: lo que estudio lo llevo a código, y lo que
+termino lo publico aquí.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Jardín Rosa** es el nombre con el que firmo ese trabajo.
+
+<div align="center">
+  <img src="assets/separador.png" width="330" alt="">
+</div>
+
+## En qué estoy ahora
+
+- Desarrollador de **C#** y **ASP.NET Core** para construir aplicaciones web.
+- Desarrollando proyectos personales para practicar lo que aprendo.
+- Este perfil va a ir creciendo conforme tenga proyectos listos para mostrar.
+
+## Contacto
+
+- LinkedIn: [pablodelgado-dev](https://www.linkedin.com/in/pablodelgado-dev/)
