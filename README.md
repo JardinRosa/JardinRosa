@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cabecera-oscuro.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/cabecera-claro.png">
-    <img src="assets/cabecera-claro.png" width="880" alt="Jardín Rosa: invernadero en pixel art de 16 bits con una estantería de macetas, un letrero de madera que dice Jardín Rosa y un escritorio con un monitor mostrando código">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cabecera-oscuro-animada.gif">
+    <source media="(prefers-color-scheme: light)" srcset="assets/cabecera-claro-animada.gif">
+    <img src="assets/cabecera-claro-animada.gif" width="880" alt="Jardín Rosa: invernadero en pixel art de 16 bits con una estantería de macetas, un letrero de madera con el logo y el nombre Jardín Rosa, y un escritorio con un monitor mostrando código">
   </picture>
 </div>
 
